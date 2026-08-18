@@ -67,6 +67,7 @@ main {
   /* 基本のテキスト・背景・ボーダー */
   --color-bg-primary: #f1ebd9;
   --color-bg-canvas: #f1ebd9;
+  --color-bg-tertiary: #f1ebd9;
   --color-fg-default: #000;
   --color-fg-muted: #263238;
   --color-fg-subtle: #263238;
