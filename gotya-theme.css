@@ -46,13 +46,13 @@ main {
 
   /* プライマリボタン（送信など）：最大のアクセントカラー（#699239） */
   --color-btn-primary-text: #fff;
-  --color-btn-primary-bg: #699239;
+  --color-btn-primary-bg: #007D98;
   --color-btn-primary-border: rgba(0, 0, 0, 0.15);
   --color-btn-primary-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
   --color-btn-primary-inset-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03);
-  --color-btn-primary-hover-bg: #8C853B;
+  --color-btn-primary-hover-bg: #00cdfa;
   --color-btn-primary-hover-border: rgba(0, 0, 0, 0.15);
-  --color-btn-primary-selected-bg: #8C853B;
+  --color-btn-primary-selected-bg: #00cdfa;
   --color-btn-primary-selected-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.2);
   --color-btn-primary-disabled-text: rgba(255, 255, 255, 0.8);
   --color-btn-primary-disabled-bg: rgba(105, 146, 57, 0.5);
@@ -65,14 +65,16 @@ main {
   --color-segmented-control-button-selected-border: #DBBD36;
 
   /* 基本のテキスト・背景・ボーダー */
+  --color-bg-tertiary: #699239;
+  --color-bg-primary: #f1ebd9;
   --color-fg-default: #000;
   --color-fg-muted: #263238;
   --color-fg-subtle: #263238;
   --color-canvas-default: #fff;
   --color-canvas-overlay: #fff;
-  --color-canvas-inset: #f1ebd9;
+  --color-canvas-inset: #fff;
   --color-canvas-subtle: #e1e0dc;
-  --color-border-default: #e1e0dc;
+  --color-border-default: #8c853b;
   --color-border-muted: rgba(0, 0, 0, 0.1);
   --color-neutral-muted: rgba(0, 0, 0, 0.1);
 
