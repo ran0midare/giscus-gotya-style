@@ -100,6 +100,13 @@ main {
   --color-social-reaction-bg-reacted-hover: var(--color-scale-blue-1);
 }
 
+main .gsc-reply-box{
+  padding-top: 0.2rem !important;
+  padding-inline-end: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-inline-start: 0rem !important;
+}
+
 main .pagination-loader-container {
   background-image: url("https://github.com/images/modules/pulls/progressive-disclosure-line.svg");
 }
