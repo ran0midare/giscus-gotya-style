@@ -1,4 +1,4 @@
-/* gotya-light.css */
+/* gotya-theme-light.css */
 main {
   /* シンタックスハイライトはデフォルトを維持 */
   --color-prettylights-syntax-comment: #6e7781;
@@ -33,7 +33,7 @@ main {
   --color-prettylights-syntax-constant-other-reference-link: #0a3069;
 
   /* 通常のボタン：ブログのボタン色（#007D98） */
-  --color-btn-text: #fff;
+  --color-btn-text: #263238;
   --color-btn-bg: #007D98;
   --color-btn-border: rgba(0, 0, 0, 0.15);
   --color-btn-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
@@ -69,7 +69,7 @@ main {
   --color-bg-canvas: #f1ebd9;
   --color-bg-tertiary: #f1ebd9;
   --color-fg-default: #000;
-  --color-fg-muted: #263238;
+  --color-fg-muted: #fff;
   --color-fg-subtle: #263238;
   --color-canvas-default: #fff;
   --color-canvas-overlay: #fff;
