@@ -65,15 +65,15 @@ main {
   --color-segmented-control-button-selected-border: #DBBD36;
 
   /* 基本のテキスト・背景・ボーダー */
-  --color-bg-primary: #f1ebd9;
+  --color-bg-primary: #0e1702;
   --color-bg-canvas: #f1ebd9;
   --color-bg-tertiary: #f1ebd9;
   --color-fg-default: #fff;
   --color-fg-muted: #fff;
   --color-fg-subtle: #263238;
-  --color-canvas-default: #fff;
+  --color-canvas-default: #0e1702;
   --color-canvas-overlay: #fff;
-  --color-canvas-inset: #fff;
+  --color-canvas-inset: #0e1702;
   --color-canvas-subtle: #699239;
   --color-border-default: #8c853b;
   --color-border-muted: rgba(0, 0, 0, 0.1);
